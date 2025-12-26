@@ -1,1 +1,19 @@
- @theme "~/.local/share/rofi/themes/arc_dark_transparent_colors.rasi"
+@import "/usr/share/rofi/themes/solarized_alternate.rasi"
+
+//@theme "/usr/share/rofi/themes/fancy2.rasi"
+
+//@theme "/usr/share/rofi/themes/sidebar-v2.rasi"
+
+//@theme "/usr/share/rofi/themes/sidebar.rasi"
+
+//@theme "/usr/share/rofi/themes/sidebar.rasi"
+
+//@theme "/home/tth/.local/share/rofi/themes/arc_dark_transparent_colors.rasi"
+
+//@theme "/usr/share/rofi/themes/Arc.rasi"
+
+//@theme "/usr/share/rofi/themes/sidebar.rasi"
+
+//@theme "/usr/share/rofi/themes/sidebar.rasi"
+
+@theme "/usr/share/rofi/themes/sidebar.rasi"

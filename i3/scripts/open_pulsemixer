@@ -1,7 +1,7 @@
 #!/bin/bash
 #"$@" & # Run the command passed as arguments
-xterm -e pulsemixer &
-sleep 0.2                                        # Short delay for the window to register
-i3-msg [title="pulsemixer"] "floating toggle" -q # Toggles floating on the *focused* window (which should be the new app)
-
+#footclient --app-id=pulsemixerxxxxxxxxxxxxx -e pulsemixer &
+#
+#swaymsg [app_id="pulsemixerxxxxxxxxxxxxx"] floating enable # Toggles floating on the *focused* window (which should be the new app)
+swaymsg -q 'exec footclient -a floatingpulsemixerxxxxx -e pulsemixer'
 #i3-msg -m -t subscribe '["pulsemixerxxx"]'
