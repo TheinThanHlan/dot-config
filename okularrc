@@ -1,0 +1,33 @@
+[Desktop Entry]
+FullScreen=false
+shouldShowMenuBarComingFromFullScreen=true
+shouldShowToolBarComingFromFullScreen=true
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/ESP32-C3-MINI-1_AT_Bin_V2.4.2.0/README.md
+File10[$e]=$HOME/Downloads/Result.pdf
+File2[$e]=$HOME/Downloads/DZKJ-1.0.0.55/README.md
+File3[$e]=$HOME/Downloads/DELL LATITUDE 5580 CDP80 LA-E151P REV 0.2 (2).pdf
+File4[$e]=/mnt/sda1/My results from the BigFive personality test - Free open-source BigFive personality traits test.pdf
+File5[$e]=/mnt/sda1/Instant self-hypnosis how to hypnotize yourself with your eyes open (Forbes Robbins Blair) (Z-Library).pdf
+File6[$e]=/mnt/sda1/365 Quick Easy Tips Home Organization Simple Techniques to Keep Your Home Neat and Tidy Year Round (Weldon Owen) (Z-Library).pdf
+File7[$e]=/mnt/sda1/Python Data Science The Ultimate Handbook for Beginners on How to Explore NumPy for Numerical Data, Pandas for Data Analysis,… (Blair, Steve) (Z-Library).pdf
+File8[$e]=$HOME/projects/ProGym/docs/SDLC/1-RD-1-Functional-Requirements.md
+File9[$e]=$HOME/NOTES/SDLC/mindmap.md
+Name1[$e]=README.md
+Name10[$e]=Result.pdf
+Name2[$e]=README.md
+Name3[$e]=DELL LATITUDE 5580 CDP80 LA-E151P REV 0.2 (2).pdf
+Name4[$e]=My results from the BigFive personality test - Free open-source BigFive personality traits test.pdf
+Name5[$e]=Instant self-hypnosis how to hypnotize yourself with your eyes open (Forbes Robbins Blair) (Z-Library).pdf
+Name6[$e]=365 Quick Easy Tips Home Organization Simple Techniques to Keep Your Home Neat and Tidy Year Round (Weldon Owen) (Z-Library).pdf
+Name7[$e]=Python Data Science The Ultimate Handbook for Beginners on How to Explore NumPy for Numerical Data, Pandas for Data Analysis,… (Blair, Steve) (Z-Library).pdf
+Name8[$e]=1-RD-1-Functional-Requirements.md
+Name9[$e]=mindmap.md
+
+[UiSettings]
+ColorScheme=BreezeDark

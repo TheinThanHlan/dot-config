@@ -7,8 +7,9 @@
 ### Variables
 #
 # Logo key. Use Mod1 for Alt.
-exec --no-startup-id nm-applet
-exec --no-startup-id foot --server
+#exec --no-startup-id nm-applet
+exec --no-startup-id "foot --server"
+exec --no-startup-id swaync
 set $mod Mod4
 # Home row direction keys, like vim
 set $left h
@@ -23,7 +24,18 @@ set $menu rofi -show run -lines 3 -eh 2 -opacity "80" -width 100 -padding 400 -b
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1920x1080.png fill
+output * bg /usr/share/backgrounds/xfce/xfce-leaves.svg fill
+output * max_render_time 4
+output * allow_tearing yes
+output * adaptive_sync enabled
+
+
+#output * mode --custom 1920x1200@60Hz
+#output * mode --custom 1600x1200@63Hz
+#output * mode 1920x1080@60Hz
+
+
+
 for_window [app_id="floatingpulsemixerxxxxx"] floating enabled
 #
 # Example configuration:
@@ -209,15 +221,15 @@ bindsym $mod+r mode "resize"
 # Utilities:
 #
     # Special keys to adjust volume via PulseAudio
-    bindsym --locked XF86AudioMute exec pactl set-sink-mute \@DEFAULT_SINK@ toggle
-    bindsym --locked XF86AudioLowerVolume exec pactl set-sink-volume \@DEFAULT_SINK@ -5%
-    bindsym --locked XF86AudioRaiseVolume exec pactl set-sink-volume \@DEFAULT_SINK@ +5%
-    bindsym --locked XF86AudioMicMute exec pactl set-source-mute \@DEFAULT_SOURCE@ toggle
-    # Special keys to adjust brightness via brightnessctl
-    bindsym --locked XF86MonBrightnessDown exec brightnessctl set 5%-
-    bindsym --locked XF86MonBrightnessUp exec brightnessctl set 5%+
-    # Special key to take a screenshot with grim
-    bindsym Print exec grim
+    #bindsym --locked XF86AudioMute exec pactl set-sink-mute \@DEFAULT_SINK@ toggle
+    #bindsym --locked XF86AudioLowerVolume exec pactl set-sink-volume \@DEFAULT_SINK@ -5%
+    #bindsym --locked XF86AudioRaiseVolume exec pactl set-sink-volume \@DEFAULT_SINK@ +5%
+    #bindsym --locked XF86AudioMicMute exec pactl set-source-mute \@DEFAULT_SOURCE@ toggle
+    ## Special keys to adjust brightness via brightnessctl
+    #bindsym --locked XF86MonBrightnessDown exec brightnessctl set 5%-
+    #bindsym --locked XF86MonBrightnessUp exec brightnessctl set 5%+
+    ## Special key to take a screenshot with grim
+    #bindsym Print exec grim
 
 #
 # Status Bar:
@@ -225,16 +237,6 @@ bindsym $mod+r mode "resize"
 # Read `man 5 sway-bar` for more information about this section.
 bar {
     position bottom
-
-    # When the status_command prints a new line to stdout, swaybar updates.
-    # The default just shows the current date and time.
-    #status_command while date +'%Y-%m-%d %X'; do sleep 1; done
-    status_command i3blocks -c $HOME/.config/i3/i3blocks.conf
-    colors {
-        statusline #ffffff
-        background #323232
-        inactive_workspace #32323200 #32323200 #5c5c5c
-    }
+    status_command i3blocks -c $HOME/.config/i3/i3blocks.conf 
 }
-
 include /etc/sway/config.d/*

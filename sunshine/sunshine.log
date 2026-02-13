@@ -1,0 +1,120 @@
+[2026-01-31 06:24:07.699]: Info: Sunshine version: 2025.924.154138 commit: 86188d47a7463b0f73b35de18a628353adeaa20e
+[2026-01-31 06:24:07.699]: Info: Package Publisher: LizardByte
+[2026-01-31 06:24:07.699]: Info: Publisher Website: https://app.lizardbyte.dev
+[2026-01-31 06:24:07.699]: Info: Get support: https://app.lizardbyte.dev/support
+[2026-01-31 06:24:07.699]: Info: config: 'upnp' = enabled
+[2026-01-31 06:24:07.700]: Error: Couldn't load cuda: -1
+[2026-01-31 06:24:07.700]: Info: Found display [wayland-1]
+[2026-01-31 06:24:07.700]: Info: Found interface: zwp_linux_dmabuf_v1(2) version 4
+[2026-01-31 06:24:07.700]: Info: Found interface: zxdg_output_manager_v1(8) version 3
+[2026-01-31 06:24:07.700]: Info: Found interface: zwlr_screencopy_manager_v1(29) version 3
+[2026-01-31 06:24:07.700]: Info: Found interface: wl_output(54) version 4
+[2026-01-31 06:24:07.701]: Info: Resolution: 1920x1200
+[2026-01-31 06:24:07.701]: Info: Name: HDMI-A-2
+[2026-01-31 06:24:07.701]: Info: Found monitor: AccuScene Corporation Ltd ASLHDMI 0001 (HDMI-A-2)
+[2026-01-31 06:24:07.701]: Info: Offset: 0x0
+[2026-01-31 06:24:07.701]: Info: Logical size: 1920x1200
+[2026-01-31 06:24:07.701]: Info: -------- Start of Wayland monitor list --------
+[2026-01-31 06:24:07.701]: Info: Monitor 0 is HDMI-A-2: AccuScene Corporation Ltd ASLHDMI 0001 (HDMI-A-2)
+[2026-01-31 06:24:07.701]: Info: --------- End of Wayland monitor list ---------
+[2026-01-31 06:24:07.724]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2026-01-31 06:24:07.724]: Info: Trying encoder [nvenc]
+[2026-01-31 06:24:07.724]: Info: Screencasting with Wayland's protocol
+[2026-01-31 06:24:07.724]: Info: Found display [wayland-1]
+[2026-01-31 06:24:07.724]: Info: Found interface: zwp_linux_dmabuf_v1(2) version 4
+[2026-01-31 06:24:07.724]: Info: Found interface: zxdg_output_manager_v1(8) version 3
+[2026-01-31 06:24:07.724]: Info: Found interface: zwlr_screencopy_manager_v1(29) version 3
+[2026-01-31 06:24:07.724]: Info: Found interface: wl_output(54) version 4
+[2026-01-31 06:24:07.724]: Info: Resolution: 1920x1200
+[2026-01-31 06:24:07.724]: Info: Name: HDMI-A-2
+[2026-01-31 06:24:07.724]: Info: Found monitor: AccuScene Corporation Ltd ASLHDMI 0001 (HDMI-A-2)
+[2026-01-31 06:24:07.724]: Info: Offset: 0x0
+[2026-01-31 06:24:07.724]: Info: Logical size: 1920x1200
+[2026-01-31 06:24:07.724]: Info: Selected monitor [AccuScene Corporation Ltd ASLHDMI 0001 (HDMI-A-2)] for streaming
+[2026-01-31 06:24:07.724]: Info: Creating encoder [h264_nvenc]
+[2026-01-31 06:24:07.725]: Info: Color coding: SDR (Rec. 601)
+[2026-01-31 06:24:07.725]: Info: Color depth: 8-bit
+[2026-01-31 06:24:07.725]: Info: Color range: JPEG
+[2026-01-31 06:24:07.725]: Error: Couldn't load cuda: -1
+[2026-01-31 06:24:07.725]: Info: Creating encoder [h264_nvenc]
+[2026-01-31 06:24:07.725]: Info: Color coding: SDR (Rec. 601)
+[2026-01-31 06:24:07.725]: Info: Color depth: 8-bit
+[2026-01-31 06:24:07.725]: Info: Color range: JPEG
+[2026-01-31 06:24:07.725]: Error: Couldn't load cuda: -1
+[2026-01-31 06:24:07.725]: Info: Encoder [nvenc] failed
+[2026-01-31 06:24:07.725]: Info: Trying encoder [vaapi]
+[2026-01-31 06:24:07.725]: Info: Screencasting with Wayland's protocol
+[2026-01-31 06:24:07.725]: Info: Found display [wayland-1]
+[2026-01-31 06:24:07.725]: Info: Found interface: zwp_linux_dmabuf_v1(2) version 4
+[2026-01-31 06:24:07.725]: Info: Found interface: zxdg_output_manager_v1(8) version 3
+[2026-01-31 06:24:07.725]: Info: Found interface: zwlr_screencopy_manager_v1(29) version 3
+[2026-01-31 06:24:07.725]: Info: Found interface: wl_output(54) version 4
+[2026-01-31 06:24:07.725]: Info: Resolution: 1920x1200
+[2026-01-31 06:24:07.725]: Info: Name: HDMI-A-2
+[2026-01-31 06:24:07.725]: Info: Found monitor: AccuScene Corporation Ltd ASLHDMI 0001 (HDMI-A-2)
+[2026-01-31 06:24:07.725]: Info: Offset: 0x0
+[2026-01-31 06:24:07.725]: Info: Logical size: 1920x1200
+[2026-01-31 06:24:07.725]: Info: Selected monitor [AccuScene Corporation Ltd ASLHDMI 0001 (HDMI-A-2)] for streaming
+[2026-01-31 06:24:07.725]: Info: Creating encoder [h264_vaapi]
+[2026-01-31 06:24:07.725]: Info: Color coding: SDR (Rec. 601)
+[2026-01-31 06:24:07.725]: Info: Color depth: 8-bit
+[2026-01-31 06:24:07.725]: Info: Color range: JPEG
+[2026-01-31 06:24:07.738]: Info: vaapi vendor: Intel iHD driver for Intel(R) Gen Graphics - 25.3.4 ()
+[2026-01-31 06:24:07.738]: Info: Streaming bitrate is 1000000
+[2026-01-31 06:24:07.738]: Info: Using LP encoding mode
+[2026-01-31 06:24:07.739]: Warning: Using CQP with single frame VBV size
+[2026-01-31 06:24:07.739]: Warning: [h264_vaapi @ 0x556928c43e40] Buffering settings are ignored in CQP RC mode.
+[2026-01-31 06:24:07.762]: Info: Creating encoder [hevc_vaapi]
+[2026-01-31 06:24:07.763]: Info: Color coding: SDR (Rec. 601)
+[2026-01-31 06:24:07.763]: Info: Color depth: 8-bit
+[2026-01-31 06:24:07.763]: Info: Color range: JPEG
+[2026-01-31 06:24:07.773]: Info: vaapi vendor: Intel iHD driver for Intel(R) Gen Graphics - 25.3.4 ()
+[2026-01-31 06:24:07.773]: Info: Streaming bitrate is 1000000
+[2026-01-31 06:24:07.773]: Info: Using normal encoding mode
+[2026-01-31 06:24:07.773]: Info: Using VBR with single frame VBV size
+[2026-01-31 06:24:07.773]: Warning: [hevc_vaapi @ 0x556928c43e40] Driver does not advertise encoder features, using guessed defaults.
+[2026-01-31 06:24:07.773]: Warning: [hevc_vaapi @ 0x556928c43e40] Driver does not advertise encoder block size, using guessed defaults.
+[2026-01-31 06:24:07.806]: Info: Creating encoder [av1_vaapi]
+[2026-01-31 06:24:07.806]: Info: Color coding: SDR (Rec. 601)
+[2026-01-31 06:24:07.806]: Info: Color depth: 8-bit
+[2026-01-31 06:24:07.806]: Info: Color range: JPEG
+[2026-01-31 06:24:07.813]: Info: vaapi vendor: Intel iHD driver for Intel(R) Gen Graphics - 25.3.4 ()
+[2026-01-31 06:24:07.813]: Info: Streaming bitrate is 1000000
+[2026-01-31 06:24:07.813]: Error: [av1_vaapi @ 0x55692941dd80] No usable encoding profile found.
+[2026-01-31 06:24:07.813]: Error: Could not open codec [av1_vaapi]: Function not implemented
+[2026-01-31 06:24:07.814]: Info: Screencasting with Wayland's protocol
+[2026-01-31 06:24:07.814]: Info: Found display [wayland-1]
+[2026-01-31 06:24:07.814]: Info: Found interface: zwp_linux_dmabuf_v1(2) version 4
+[2026-01-31 06:24:07.814]: Info: Found interface: zxdg_output_manager_v1(8) version 3
+[2026-01-31 06:24:07.815]: Info: Found interface: zwlr_screencopy_manager_v1(29) version 3
+[2026-01-31 06:24:07.815]: Info: Found interface: wl_output(54) version 4
+[2026-01-31 06:24:07.815]: Info: Resolution: 1920x1200
+[2026-01-31 06:24:07.815]: Info: Name: HDMI-A-2
+[2026-01-31 06:24:07.815]: Info: Found monitor: AccuScene Corporation Ltd ASLHDMI 0001 (HDMI-A-2)
+[2026-01-31 06:24:07.815]: Info: Offset: 0x0
+[2026-01-31 06:24:07.815]: Info: Logical size: 1920x1200
+[2026-01-31 06:24:07.815]: Info: Selected monitor [AccuScene Corporation Ltd ASLHDMI 0001 (HDMI-A-2)] for streaming
+[2026-01-31 06:24:07.815]: Info: Creating encoder [hevc_vaapi]
+[2026-01-31 06:24:07.815]: Info: Color coding: SDR (Rec. 709)
+[2026-01-31 06:24:07.815]: Info: Color depth: 10-bit
+[2026-01-31 06:24:07.815]: Info: Color range: JPEG
+[2026-01-31 06:24:07.824]: Info: vaapi vendor: Intel iHD driver for Intel(R) Gen Graphics - 25.3.4 ()
+[2026-01-31 06:24:07.824]: Info: Streaming bitrate is 1000000
+[2026-01-31 06:24:07.824]: Info: Using normal encoding mode
+[2026-01-31 06:24:07.824]: Info: Using VBR with single frame VBV size
+[2026-01-31 06:24:07.824]: Warning: [hevc_vaapi @ 0x55692941dd80] Driver does not advertise encoder features, using guessed defaults.
+[2026-01-31 06:24:07.824]: Warning: [hevc_vaapi @ 0x55692941dd80] Driver does not advertise encoder block size, using guessed defaults.
+[2026-01-31 06:24:07.860]: Info: 
+[2026-01-31 06:24:07.861]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2026-01-31 06:24:07.861]: Info: 
+[2026-01-31 06:24:07.861]: Info: Found H.264 encoder: h264_vaapi [vaapi]
+[2026-01-31 06:24:07.861]: Info: Found HEVC encoder: hevc_vaapi [vaapi]
+[2026-01-31 06:24:07.861]: Info: Starting system tray
+[2026-01-31 06:24:07.864]: Info: Adding avahi service cachyos-x8664
+[2026-01-31 06:24:07.865]: Info: Configuration UI available at [https://localhost:47990]
+[2026-01-31 06:24:07.885]: Info: System tray created
+[2026-01-31 06:24:07.885]: Info: Starting main loop
+[2026-01-31 06:24:08.640]: Info: Avahi service cachyos-x8664 successfully established.
+[2026-01-31 06:24:15.861]: Warning: Couldn't discover any IPv4 UPNP devices
+[2026-01-31 06:24:29.331]: Info: Interrupt handler called
+[2026-01-31 06:24:29.337]: Info: Shutdown event detected, breaking main loop

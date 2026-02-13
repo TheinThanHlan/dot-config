@@ -2,63 +2,143 @@
 	<pref name="COMBAT MASTER_DISABLE_GLOBAL_CHAT" type="int">0</pref>
 	<pref name="UnityInstallationId" type="string">MzQ1MWRjMGJlMDU4MzEwMTg4NTRmMmM2ZTQ4MzZlZGY=</pref>
 	<pref name="wr4vwq7DixJTOcKQMcKuw5s7TifCiyTCtcORE0A=" type="string">LzBISHVBVUVBR25aMWdnPQ==</pref>
-	<pref name="Screenmanager Resolution Use Native Default" type="int">1</pref>
 	<pref name="wr0gwrPDjBFCGMKXIMKjw5cKVA==" type="string">LzBISHVBVUVBR25aMWdnPQ==</pref>
-	<pref name="UnitySelectMonitor" type="int">0</pref>
-	<pref name="unity.player_session_count" type="string">MQ==</pref>
-	<pref name="wrYswrfDlw5TJMKNMsKVw50PQiXCmyTCtcO5E0Anwpo=" type="string">L1VISHVBVUVBSmFCZEI4PQ==</pref>
-	<pref name="COMBAT_MASTER_UNIQUE_DEVICE_ID_76561199111659888" type="string">ODc2ZGY5MGItY2VhYy00OWRiLWE4OGQtM2RlOGQzZTFjODg5</pref>
+	<pref name="SELECTED_MATCH_LEAGUE_V1" type="int">2</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:2:256" type="string">W10=</pref>
 	<pref name="Screenmanager Resolution Width" type="int">1920</pref>
-	<pref name="wrwOworDujxza8KyAMKUw6w4dRTCpxHCmMO6MmgYwqsewoPDuSlm" type="string">aEdPejBTNHFJalFrSmdKM2NHUm1jbXB0TnpFNU9Td2liWFZzZEdsd2JHbGxjdDE3OVpaek1nOEVBRDRySHJzPQ==</pref>
-	<pref name="LAST_KC_RANDOM_MATCH" type="int">101318681</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:7:5" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:7:1" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:5:0" type="string">W10=</pref>
+	<pref name="LAST_KC_RANDOM_MATCH" type="int">101318659</pref>
+	<pref name="LAST_SHOWED_PROMO_COMBO_ID" type="int">50790402</pref>
 	<pref name="wrYswrfDlw5TJMKNMsKKw5kFdS7CjSTCqcOcGFUbwpozwoHDihxKLg==" type="string">L2tISHVBVUVBSk4ydS9NPQ==</pref>
 	<pref name="Screenmanager Fullscreen mode Default" type="int">1</pref>
 	<pref name="wrkuwqDDvRNGKcKTJMKj" type="string">L2tISHVBVUVBSk4ydS9NPQ==</pref>
 	<pref name="LAST_DM_RANDOM_MATCH" type="int">100925454</pref>
-	<pref name="Screenmanager Resolution Height" type="int">1200</pref>
-	<pref name="wrIowrfDtRxXGsKKIMKrw5EJXg==" type="string">L2tISHVBVUVBSk4ydS9NPQ==</pref>
-	<pref name="Screenmanager Resolution Height Default" type="int">720</pref>
-	<pref name="wrYswrfDlw5TJMKNMsKKw5kFYyLCjDXCpsOWHkI=" type="string">MDBESHVBVUVBSEo1UTZrPQ==</pref>
-	<pref name="wrskwqTDmRFU" type="string">L2tISHVBVUVBSk4ydS9NPQ==</pref>
-	<pref name="LAST_DO_RANDOM_MATCH" type="int">101449733</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:7:0" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:1:768" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:7:4" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:9:65535" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:8:65535" type="string">W10=</pref>
 	<pref name="Screenmanager Fullscreen mode" type="int">1</pref>
-	<pref name="COMBAT MASTER_DISABLE_PUBLIC_ROOM" type="int">0</pref>
-	<pref name="9978e9f39c218d674463dab9dc728bd6" type="string">dzc5Qnc0ZkN1SDBuU3c9PQ==</pref>
-	<pref name="WHATS_NEW_VERSION_0.28_WAS_SHOWN" type="int">1</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:1:1536" type="string">W10=</pref>
 	<pref name="wrskwrTDjA9SKMKLKMKlw5QYdznCkDHCtA==" type="string">LzBISHVBVUVBR25aMWdnPQ==</pref>
-	<pref name="wqskwrXDihxOJcK7JMKzw5kUSzjCrjTCpsOUFFMy" type="string">L2tISHVBVUVBSk4ydS9NPQ==</pref>
-	<pref name="wq8gwrXDjBREJ8KaMsKWw40cSyLCizg=" type="string">L1VISHVBVUVBSmFCZEI4PQ==</pref>
-	<pref name="Screenmanager Window Position Y" type="int">0</pref>
-	<pref name="wqwiwrXDnRhJGMKcIMKrw50/Rj/Ciy3Cog==" type="string">TW8yTGh4UUVBRFNCUDFBPQ==</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:9:512" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:4:512" type="string">W10=</pref>
+	<pref name="COMBAT MASTER_SHOWED_APPROVED_FRIENDS" type="string">WyJDRUJGMDREMUNBNTc4RkM2IiwiMzc0Njg3ODAwQUE4OTNEIiwiNTg3NzFFRjVDMjJCRDUxNCIsIjRENTA0QzJENkQxOTREQTUiLCIyQjJFNUUyMDA5NjE1QTgyIiwiNzk4QzcxNDcwNjRBN0JGMSIsIjNCODFDQzgyQTlBQzM0MkYiLCI0RERCRTgzNEI2N0EyM0U0IiwiRDlEMURCM0Q5MTdCQjAxNiIsIjY3NThGOTk2QTA1NkE4OUUiXQ==</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:0:1536" type="string">W10=</pref>
 	<pref name="wrovwrHDkQ9IJcKSJMKpw4w5QijCni3CtA==" type="string">LzBISHVBVUVBR25aMWdnPQ==</pref>
 	<pref name="wq0kwrTDlxFSP8KWLsKpw6seRifCmg==" type="string">TW8yTGh4UUVBRFNCUDFBPQ==</pref>
-	<pref name="wrMuwqXDmgRmJcKLKMKGw5QURjjCli/CoMOnCxU=" type="string">LzBISHVBVUVBR25aMWdnPQ==</pref>
-	<pref name="InputKeyMap_BindingOverrides" type="string"></pref>
-	<pref name="Screenmanager Resolution Width Default" type="int">1280</pref>
-	<pref name="COMBAT MASTER_BATTLE_PASS_INFINITY" type="int">0</pref>
-	<pref name="COMBAT MASTER_STEAM_ID" type="string">NzY1NjExOTkxMTE2NTk4ODg=</pref>
-	<pref name="wrYswrfDlw5TJMKNMsKTw50FUz7CjSTClsONHEsiwos4" type="string">L2tISHVBVUVBSk4ydS9NPQ==</pref>
-	<pref name="LAST_TDM_RANDOM_MATCH" type="int">100728854</pref>
-	<pref name="wq0kwqnDnBhVGsKKIMKrw5EJXg==" type="string">L2tISHVBVUVBSk4ydS9NPQ==</pref>
-	<pref name="unity.player_sessionid" type="string">NTQ4ODgzNzI4MzQzMDQ2MTE1</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:3:768" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:7:10" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:7:6" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:5:1024" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:1:65535" type="string">W10=</pref>
+	<pref name="LAST_SHOWED_SOFT_PROMO_POPUP_TYPE" type="int">6</pref>
+	<pref name="LAST_TDM_RANDOM_MATCH" type="int">100728834</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:4:1024" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:1:1280" type="string">W10=</pref>
+	<pref name="SHOWED_OPERATORS" type="string">W3siX3VpZCI6MzM1NTQ0NDl9LHsiX3VpZCI6MzM1NTQ0Mzd9XQ==</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:3:0" type="string">W10=</pref>
+	<pref name="unity.player_sessionid" type="string">NDU5NTk3MDEyNzc3OTA1MjM1Mg==</pref>
+	<pref name="SELECTED_MAP_FILTER_V1" type="int">0</pref>
 	<pref name="Screenmanager Window Position X" type="int">0</pref>
 	<pref name="unity.cloud_userid" type="string">MzQ1MWRjMGJlMDU4MzEwMTg4NTRmMmM2ZTQ4MzZlZGY=</pref>
-	<pref name="wr0gwrPDjBFCCsKRNcKuw7kRTirCjCjCqcOfIlF5" type="string">LzBISHVBVUVBR25aMWdnPQ==</pref>
 	<pref name="wq0kwrTDlxFSP8KWLsKpw7QSRSnChg==" type="string">ekhMMGh4UUVBTnZrWVBvPQ==</pref>
-	<pref name="COMBAT MASTER_BATTLE_PASS_END_TIME" type="string">eyIxIjoxNzQ3MzUzNTk5LCIyIjoxNzQ3MzUzNTk5LCIzIjoxNzQ3MzUzNTk5LCI0IjoxNzQ3MzUzNTk5LCI1IjoxNzY4NDM1MTk5LCI2IjoxNzY4NDM1MTk5fQ==</pref>
+	<pref name="COMBAT MASTER_BATTLE_PASS_END_TIME" type="string">eyIxIjoxNzk4ODkwODg4LCIyIjoxNzk4ODkwODg4LCIzIjoxNzk4ODkwODg4LCI0IjoxNzk4ODkwODg4LCI1IjoxNzY4NDM1MTk5LCI2IjoxNzY4NDM1MTk5fQ==</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:6:65535" type="string">W10=</pref>
 	<pref name="COMBAT MASTER_PLAYFAB_APP_VERSION" type="string">MC4yOC4=</pref>
-	<pref name="wqsgwqTDjBREKsKTEsK3w4oUST/Cqy7CoMOfEUI=" type="string">LzBISHVBVUVBR25aMWdnPQ==</pref>
-	<pref name="wqwkwqnDixRTIsKJKMKzw4EuUznCmi/CoMOMFQ==" type="string">L2tISHVBVUVBSk4ydS9NPQ==</pref>
 	<pref name="Screenmanager Resolution Use Native" type="int">1</pref>
-	<pref name="wrcuwqvDnDxDOA==" type="string">L2tISHVBVUVBSk4ydS9NPQ==</pref>
-	<pref name="LAST_AR_RANDOM_MATCH" type="int">101056530</pref>
-	<pref name="LAST_CTF_RANDOM_MATCH" type="int">101253120</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:7:9" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_KEYS" type="string">W3siX3VpZCI6MTcwMzkzNjB9LHsiX3VpZCI6MTcwMzk2MTZ9LHsiX3VpZCI6MTcwMzk4NzJ9LHsiX3VpZCI6MTcxMDQ4OTV9LHsiX3VpZCI6MTcwNDAxMjh9LHsiX3VpZCI6MTcwNDAzODR9LHsiX3VpZCI6MTcwNDA2NDB9LHsiX3VpZCI6MTcxNzA0MzJ9LHsiX3VpZCI6MTcxNzA2ODh9LHsiX3VpZCI6MTcxNzA5NDR9LHsiX3VpZCI6MTcyMzU5Njd9LHsiX3VpZCI6MTY3NzcyMTZ9LHsiX3VpZCI6MTY3Nzc0NzJ9LHsiX3VpZCI6MTY3Nzc3Mjh9LHsiX3VpZCI6MTY4NDI3NTF9LHsiX3VpZCI6MTY3Nzc5ODR9LHsiX3VpZCI6MTY3NzgyNDB9LHsiX3VpZCI6MTY3Nzg0OTZ9LHsiX3VpZCI6MTY3Nzg3NTJ9LHsiX3VpZCI6MTY3NzkwMDh9LHsiX3VpZCI6MTcyMzU5Njh9LHsiX3VpZCI6MTcyMzU5Njl9LHsiX3VpZCI6MTcyMzU5Nzh9LHsiX3VpZCI6MTcyMzU5Nzl9LHsiX3VpZCI6MTcyMzU5NzB9LHsiX3VpZCI6MTczMDE1MDN9LHsiX3VpZCI6MTcyMzU5NzF9LHsiX3VpZCI6MTcyMzU5NzJ9LHsiX3VpZCI6MTcyMzU5NzN9LHsiX3VpZCI6MTcyMzU5NzR9LHsiX3VpZCI6MTcyMzU5NzV9LHsiX3VpZCI6MTcyMzU5NzZ9LHsiX3VpZCI6MTcyMzU5Nzd9LHsiX3VpZCI6MTY4NDI3NTJ9LHsiX3VpZCI6MTY4NDMwMDh9LHsiX3VpZCI6MTY4NDMyNjR9LHsiX3VpZCI6MTY5MDgyODd9LHsiX3VpZCI6MTY4NDM1MjB9LHsiX3VpZCI6MTY4NDM3NzZ9LHsiX3VpZCI6MTY4NDQwMzJ9LHsiX3VpZCI6MTY4NDQyODh9LHsiX3VpZCI6MTY4NDQ1NDR9LHsiX3VpZCI6MTczMDE1MDR9LHsiX3VpZCI6MTczNjcwMzl9LHsiX3VpZCI6MTY5MDgyODh9LHsiX3VpZCI6MTY5MDg1NDR9LHsiX3VpZCI6MTY5MDg4MDB9LHsiX3VpZCI6MTY5NzM4MjN9LHsiX3VpZCI6MTcxMDQ4OTZ9LHsiX3VpZCI6MTcxMDU0MDh9LHsiX3VpZCI6MTcxNzA0MzF9LHsiX3VpZCI6MTcxMDU2NjR9LHsiX3VpZCI6MTcxMDU5MjB9LHsiX3VpZCI6MTcxMDYxNzZ9LHsiX3VpZCI6MTcxMDY0MzJ9LHsiX3VpZCI6MTY5NzM4MjR9LHsiX3VpZCI6MTY5NzQwODB9LHsiX3VpZCI6MTY5NzQzMzZ9LHsiX3VpZCI6MTcwMzkzNTl9LHsiX3VpZCI6MTY5NzQ1OTJ9LHsiX3VpZCI6MTY5NzQ4NDh9LHsiX3VpZCI6MTY5NzUxMDR9LHsiX3VpZCI6MTczNjcwNDB9LHsiX3VpZCI6MTczNjcyOTZ9LHsiX3VpZCI6MTczNjc1NTJ9LHsiX3VpZCI6MTc0MzI1NzV9LHsiX3VpZCI6MTczNjc4MDh9LHsiX3VpZCI6MTczNjgwNjR9XQ==</pref>
+	<pref name="LAST_AR_RANDOM_MATCH" type="int">101056526</pref>
+	<pref name="LAST_CTF_RANDOM_MATCH" type="int">101253130</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:1:512" type="string">W10=</pref>
+	<pref name="SHOWED_BLUEPRINTS_ANIMATION" type="string">W3siX3VpZCI6MTcwMzkzNjZ9XQ==</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:0:1280" type="string">W10=</pref>
 	<pref name="wr0gwrPDjBFCB8KWJsKvw4w=" type="string">L2tISHVBVUVBSk4ydS9NPQ==</pref>
 	<pref name="COMBAT MASTER_ENABLE_ADS_AFTER_MATCH" type="int">0</pref>
-	<pref name="wrMuwqXDmgRrIsKYKcKz" type="string">L2tISHVBVUVBSk4ydS9NPQ==</pref>
+	<pref name="SELECTED_QUICK_PLAY_GAME_MODES_V2" type="int">3053</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:5:512" type="string">W10=</pref>
 	<pref name="COMBAT MASTER_PLAYFAB_ID" type="string">RjFERUEwOTI3QTFCNjdDNA==</pref>
 	<pref name="wr0uwqPDgT5GJsK8KcKiw4sJdyTCjCjCs8OREkk=" type="string">LzBISHVBVUVBR25aMWdnPQ==</pref>
 	<pref name="wq0kwrTDlxFSP8KWLsKpw7ocUz/CkyQ=" type="string">ekhMMGh4UUVBTnZrWVBvPQ==</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:9:768" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:1:1792" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:2:512" type="string">W10=</pref>
 	<pref name="wrMuwqXDmgR0I8KeJcKow48O" type="string">L2tISHVBVUVBSk4ydS9NPQ==</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:6:0" type="string">W10=</pref>
 	<pref name="COMBAT MASTER_DISABLE_HUB" type="int">0</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:7:65535" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:9:0" type="string">W10=</pref>
+	<pref name="LAST_CM_RANDOM_MATCH" type="int">100859913</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:0:1792" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:9:1024" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:5:1280" type="string">W10=</pref>
+	<pref name="Screenmanager Resolution Use Native Default" type="int">1</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:3:256" type="string">W3siX3VpZCI6MTY3ODM3NzAxfV0=</pref>
+	<pref name="UnitySelectMonitor" type="int">0</pref>
+	<pref name="unity.player_session_count" type="string">Nw==</pref>
+	<pref name="wrYswrfDlw5TJMKNMsKVw50PQiXCmyTCtcO5E0Anwpo=" type="string">L1VISHVBVUVBSmFCZEI4PQ==</pref>
+	<pref name="COMBAT_MASTER_UNIQUE_DEVICE_ID_76561199111659888" type="string">ODc2ZGY5MGItY2VhYy00OWRiLWE4OGQtM2RlOGQzZTFjODg5</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:5:768" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:1:256" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:7:2" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:0:0" type="string">W10=</pref>
+	<pref name="wrwOworDujxza8KyAMKUw6w4dRTCpxHCmMO6MmgYwqsewoPDuSlm" type="string">aEdPejBTNHFJalFrSmdKM2NHUm1jbXB0TnpFNU9Td2liWFZzZEdsd2JHbGxjdDE3OVpaek1nOEVBRDRySHJzPQ==</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:2:65535" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:7:8" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:2:0" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:7:7" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:6:512" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:4:0" type="string">W10=</pref>
+	<pref name="Screenmanager Resolution Height" type="int">1200</pref>
+	<pref name="wrIowrfDtRxXGsKKIMKrw5EJXg==" type="string">L2tISHVBVUVBSk4ydS9NPQ==</pref>
+	<pref name="Screenmanager Resolution Height Default" type="int">720</pref>
+	<pref name="wrYswrfDlw5TJMKNMsKKw5kFYyLCjDXCpsOWHkI=" type="string">TWtISHVBVUVBTzFOdlhZPQ==</pref>
+	<pref name="wrskwqTDmRFU" type="string">L2tISHVBVUVBSk4ydS9NPQ==</pref>
+	<pref name="LAST_DO_RANDOM_MATCH" type="int">101449740</pref>
+	<pref name="COMBAT MASTER_DISABLE_PUBLIC_ROOM" type="int">0</pref>
+	<pref name="9978e9f39c218d674463dab9dc728bd6" type="string">dzc5Qnc0ZkN1SDBuU3c9PQ==</pref>
+	<pref name="WHATS_NEW_VERSION_0.28_WAS_SHOWN" type="int">1</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:0:256" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:4:1280" type="string">W10=</pref>
+	<pref name="wqskwrXDihxOJcK7JMKzw5kUSzjCrjTCpsOUFFMy" type="string">L2tISHVBVUVBSk4ydS9NPQ==</pref>
+	<pref name="wq8gwrXDjBREJ8KaMsKWw40cSyLCizg=" type="string">L1VISHVBVUVBSmFCZEI4PQ==</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:5:65535" type="string">W10=</pref>
+	<pref name="Screenmanager Window Position Y" type="int">0</pref>
+	<pref name="wqwiwrXDnRhJGMKcIMKrw50/Rj/Ciy3Cog==" type="string">TW8yTGh4UUVBRFNCUDFBPQ==</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:3:512" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:7:3" type="string">W10=</pref>
+	<pref name="wrMuwqXDmgRmJcKLKMKGw5QURjjCli/CoMOnCxU=" type="string">LzBISHVBVUVBR25aMWdnPQ==</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:1:1024" type="string">W10=</pref>
+	<pref name="Screenmanager Resolution Width Default" type="int">1280</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:0:512" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:8:0" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:9:256" type="string">W10=</pref>
+	<pref name="COMBAT MASTER_BATTLE_PASS_INFINITY" type="int">1</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:7:11" type="string">W10=</pref>
+	<pref name="COMBAT MASTER_STEAM_ID" type="string">NzY1NjExOTkxMTE2NTk4ODg=</pref>
+	<pref name="wrYswrfDlw5TJMKNMsKTw50FUz7CjSTClsONHEsiwos4" type="string">L2tISHVBVUVBSk4ydS9NPQ==</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:0:1024" type="string">W10=</pref>
+	<pref name="wq0kwqnDnBhVGsKKIMKrw5EJXg==" type="string">L2tISHVBVUVBSk4ydS9NPQ==</pref>
+	<pref name="wr0gwrPDjBFCCsKRNcKuw7kRTirCjCjCqcOfIlF5" type="string">LzBISHVBVUVBR25aMWdnPQ==</pref>
+	<pref name="wrcuwqvDnDxDOA==" type="string">L2tISHVBVUVBSk4ydS9NPQ==</pref>
+	<pref name="LAST_SHOWED_PROMO_BUNDLE_ID" type="int">50397202</pref>
+	<pref name="wqsgwqTDjBREKsKTEsK3w4oUST/Cqy7CoMOfEUI=" type="string">LzBISHVBVUVBR25aMWdnPQ==</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:0:65535" type="string">W10=</pref>
+	<pref name="wqwkwqnDixRTIsKJKMKzw4EuUznCmi/CoMOMFQ==" type="string">L2tISHVBVUVBSk4ydS9NPQ==</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:4:65535" type="string">W10=</pref>
+	<pref name="LAST_SHOWED_HARD_PROMO_POPUP_TYPE" type="int">2</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:4:768" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:3:1024" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:0:768" type="string">W10=</pref>
+	<pref name="wrMuwqXDmgRrIsKYKcKz" type="string">L2tISHVBVUVBSk4ydS9NPQ==</pref>
+	<pref name="LAST_SND_RANDOM_MATCH" type="int">101122048</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:6:256" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:3:65535" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:4:256" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:1:0" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:5:1536" type="string">W10=</pref>
+	<pref name="SHOWED_ATTACHMENTS_WEAPON:3:1280" type="string">W10=</pref>
 </unity_prefs>

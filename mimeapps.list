@@ -1,0 +1,34 @@
+[Added Associations]
+application/pdf=okularApplication_pdf.desktop;
+application/x-extension-htm=firefox.desktop;
+application/x-extension-html=firefox.desktop;
+application/x-extension-shtml=firefox.desktop;
+application/x-extension-xht=firefox.desktop;
+application/x-extension-xhtml=firefox.desktop;
+application/xhtml+xml=firefox.desktop;
+application/zip=unzip-3.desktop;unzip-2.desktop;unzip.desktop;
+text/csv=foot-7.desktop;foot-6.desktop;foot-5.desktop;foot-4.desktop;foot-3.desktop;
+text/html=firefox-2.desktop;firefox.desktop;
+text/plain=foot-2.desktop;
+video/mp4=firefox.desktop;mpv.desktop;
+video/x-matroska=mpv-3.desktop;mpv-2.desktop;mpv.desktop;org.openusd.usdview.desktop;firefox.desktop;
+x-scheme-handler/chrome=firefox.desktop;
+x-scheme-handler/http=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;
+
+[Default Applications]
+application/pdf=okularApplication_pdf.desktop
+application/x-extension-htm=firefox.desktop
+application/x-extension-html=firefox.desktop
+application/x-extension-shtml=firefox.desktop
+application/x-extension-xht=firefox.desktop
+application/x-extension-xhtml=firefox.desktop
+application/xhtml+xml=firefox.desktop
+application/zip=unzip-3.desktop;
+text/csv=foot-7.desktop;
+text/html=firefox-2.desktop;
+text/plain=foot-2.desktop;
+video/x-matroska=mpv-3.desktop;
+x-scheme-handler/chrome=firefox.desktop
+x-scheme-handler/http=firefox.desktop
+x-scheme-handler/https=firefox.desktop

@@ -1,0 +1,31 @@
+Generating report for minidump
+
+Application version 5.0.2.0
+ ... built from changelist 20280985
+
+OS version Linux 6.18.5-1-cachyos-bore (network name: cachyos-x8664)
+Running 4 x86_64 processors (4 logical cores)
+Exception was "SIGSEGV: invalid attempt to write memory at address 0x0000000000000003"
+
+<SOURCE START>
+<SOURCE END>
+
+<CALLSTACK START>
+GamedevTVGameJam2022-Linux-Shipping!UnknownFunction(0x5badbf5)
+GamedevTVGameJam2022-Linux-Shipping!UnknownFunction(0x5b3a0aa)
+GamedevTVGameJam2022-Linux-Shipping!UnknownFunction(0x5bb0a42)
+GamedevTVGameJam2022-Linux-Shipping!UnknownFunction(0x5bb5e16)
+GamedevTVGameJam2022-Linux-Shipping!UnknownFunction(0x3731f8b)
+GamedevTVGameJam2022-Linux-Shipping!UnknownFunction(0x3731b6f)
+GamedevTVGameJam2022-Linux-Shipping!UnknownFunction(0x5ce069e)
+GamedevTVGameJam2022-Linux-Shipping!UnknownFunction(0x5ceeeb1)
+GamedevTVGameJam2022-Linux-Shipping!UnknownFunction(0x379fca3)
+GamedevTVGameJam2022-Linux-Shipping!UnknownFunction(0x377b42f)
+libc.so.6!UnknownFunction(0xa80d5)
+libc.so.6!UnknownFunction(0x13b05b)
+
+<CALLSTACK END>
+
+0 loaded modules
+
+Report end!

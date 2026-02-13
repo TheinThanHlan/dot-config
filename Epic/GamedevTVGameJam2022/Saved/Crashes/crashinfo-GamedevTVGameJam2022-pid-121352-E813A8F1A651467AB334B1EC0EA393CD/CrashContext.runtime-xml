@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<ExecutionGuid>3A58FBBA44FD4AC9953F3C36E347EE5C</ExecutionGuid>
+<CrashGUID>UECC-Linux-833F69A4951B4D279189945BE5718435_0000</CrashGUID>
+<IsEnsure>false</IsEnsure>
+<IsStall>false</IsStall>
+<IsAssert>false</IsAssert>
+<CrashType>GPUCrash</CrashType>
+<ErrorMessage>LowLevelFatalError [File:.\Runtime/VulkanRHI/Private/VulkanUtil.cpp] [Line: 965] 
+VulkanRHI::vkDeviceWaitIdle(Device) failed, VkResult=-4
+ at .\Runtime/VulkanRHI/Private/VulkanDevice.cpp:1546 
+ with error VK_ERROR_DEVICE_LOST
+0x0000000005dadbf6 GamedevTVGameJam2022-Linux-Shipping!UnknownFunction(0x5badbf5)
+0x0000000005d3a0ab GamedevTVGameJam2022-Linux-Shipping!UnknownFunction(0x5b3a0aa)
+0x0000000005db0a43 GamedevTVGameJam2022-Linux-Shipping!UnknownFunction(0x5bb0a42)
+0x0000000005db5e17 GamedevTVGameJam2022-Linux-Shipping!UnknownFunction(0x5bb5e16)
+0x0000000003931f8c GamedevTVGameJam2022-Linux-Shipping!UnknownFunction(0x3731f8b)
+0x0000000003931b70 GamedevTVGameJam2022-Linux-Shipping!UnknownFunction(0x3731b6f)
+0x0000000005ee069f GamedevTVGameJam2022-Linux-Shipping!UnknownFunction(0x5ce069e)
+0x0000000005eeeeb2 GamedevTVGameJam2022-Linux-Shipping!UnknownFunction(0x5ceeeb1)
+0x000000000399fca4 GamedevTVGameJam2022-Linux-Shipping!UnknownFunction(0x379fca3)
+0x000000000397b430 GamedevTVGameJam2022-Linux-Shipping!UnknownFunction(0x377b42f)
+0x00007fa7d9ea80d6 libc.so.6!UnknownFunction(0xa80d5)
+0x00007fa7d9f3b05c libc.so.6!UnknownFunction(0x13b05b)
+
+
+
+</ErrorMessage>
+<CrashReporterMessage></CrashReporterMessage>
+<ProcessId>121352</ProcessId>
+<SecondsSinceStart>0</SecondsSinceStart>
+<IsInternalBuild>false</IsInternalBuild>
+<IsPerforceBuild>false</IsPerforceBuild>
+<IsSourceDistribution>false</IsSourceDistribution>
+<GameName>UE5-GamedevTVGameJam2022</GameName>
+<ExecutableName>GamedevTVGameJam2022-Linux-Shipping</ExecutableName>
+<BuildConfiguration>Shipping</BuildConfiguration>
+<GameSessionID></GameSessionID>
+<PlatformName>Linux</PlatformName>
+<PlatformNameIni>Linux</PlatformNameIni>
+<EngineMode>Game</EngineMode>
+<EngineModeEx>Unset</EngineModeEx>
+<DeploymentName></DeploymentName>
+<EngineVersion>5.0.2-20280985+++UE5+Release-5.0</EngineVersion>
+<CommandLine> GamedevTVGameJam2022</CommandLine>
+<LanguageLCID>0</LanguageLCID>
+<AppDefaultLocale>en_US</AppDefaultLocale>
+<BuildVersion>++UE5+Release-5.0-CL-20280985</BuildVersion>
+<Symbols>**UE5*Release-5.0-CL-20280985-Linux-Shipping</Symbols>
+<IsUERelease>true</IsUERelease>
+<IsRequestingExit>false</IsRequestingExit>
+<UserName></UserName>
+<BaseDir>/home/tth/Downloads/Linux/GamedevTVGameJam2022/Binaries/Linux/</BaseDir>
+<RootDir>/home/tth/Downloads/Linux/</RootDir>
+<MachineId>D88B993B99B94667B73D1E2ABB59E979-000003E8</MachineId>
+<LoginId>d88b993b99b94667b73d1e2abb59e979-000003e8</LoginId>
+<EpicAccountId></EpicAccountId>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint></UserActivityHint>
+<CrashDumpMode>0</CrashDumpMode>
+<GameStateName></GameStateName>
+<Misc.NumberOfCores>4</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>4</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+<Misc.CPUBrand>Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz</Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>GenericGPUBrand</Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>CachyOS</Misc.OSVersionMajor>
+<Misc.OSVersionMinor>6.18.5-1-cachyos-bore</Misc.OSVersionMinor>
+<MemoryStats.TotalPhysical>16491786240</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>33663475712</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>8742146048</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>33493606400</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>396144640</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>414310400</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>2735677440</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>2800447488</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+<NumMinidumpFramesToIgnore>3</NumMinidumpFramesToIgnore>
+<CallStack></CallStack>
+<PCallStack>
+ GamedevTVGameJam2022-Linux-Shipping 0x0000000000200000 + 5badbf6         
+ GamedevTVGameJam2022-Linux-Shipping 0x0000000000200000 + 5b3a0ab         
+ GamedevTVGameJam2022-Linux-Shipping 0x0000000000200000 + 5bb0a43         
+ GamedevTVGameJam2022-Linux-Shipping 0x0000000000200000 + 5bb5e17         
+ GamedevTVGameJam2022-Linux-Shipping 0x0000000000200000 + 3731f8c         
+ GamedevTVGameJam2022-Linux-Shipping 0x0000000000200000 + 3731b70         
+ GamedevTVGameJam2022-Linux-Shipping 0x0000000000200000 + 5ce069f         
+ GamedevTVGameJam2022-Linux-Shipping 0x0000000000200000 + 5ceeeb2         
+ GamedevTVGameJam2022-Linux-Shipping 0x0000000000200000 + 379fca4         
+ GamedevTVGameJam2022-Linux-Shipping 0x0000000000200000 + 377b430         
+                             libc.so 0x00007fa7d9e00000 + a80d6           
+                             libc.so 0x00007fa7d9e00000 + 13b05c          
+</PCallStack>
+<PCallStackHash>B56FBE3CBC1BE6FFF3747731701A4552758CE49D</PCallStackHash>
+</RuntimeProperties>
+<PlatformProperties>
+<CrashSignal>11</CrashSignal>
+<CrashSignalName>Segmentation fault</CrashSignalName>
+<PlatformCallbackResult>0</PlatformCallbackResult>
+</PlatformProperties>
+<EngineData>
+<MatchingDPStatus_Linux>No errors</MatchingDPStatus_Linux>
+<RHI.RHIName>Vulkan</RHI.RHIName>
+<RHI.AdapterName>Intel(R) UHD Graphics 630 (CFL GT2)</RHI.AdapterName>
+<RHI.UserDriverVersion>25.3.3</RHI.UserDriverVersion>
+<RHI.InternalDriverVersion>25.3.3</RHI.InternalDriverVersion>
+<RHI.DriverDate>01-01-01</RHI.DriverDate>
+<RHI.FeatureLevel>SM5</RHI.FeatureLevel>
+<RHI.GPUVendor>Intel</RHI.GPUVendor>
+<RHI.DriverBlacklisted>false</RHI.DriverBlacklisted>
+<DeviceProfile.Name>Linux</DeviceProfile.Name>
+</EngineData>
+<GameData>
+</GameData>
+</FGenericCrashContext>

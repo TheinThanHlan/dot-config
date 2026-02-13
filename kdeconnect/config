@@ -1,0 +1,4 @@
+[General]
+disabled_providers=LanLinkProvider
+keyAlgorithm=EC
+name=cachyos-x8664

@@ -1,0 +1,6 @@
+[EmbedSettings]
+embed-application/zip=false
+embed-text/csv=false
+embed-text/html=false
+embed-text/plain=false
+embed-video/x-matroska=false
