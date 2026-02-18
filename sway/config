@@ -7,9 +7,18 @@
 ### Variables
 #
 # Logo key. Use Mod1 for Alt.
-#exec --no-startup-id nm-applet
+exec --no-startup-id nm-applet
+exec --no-startup-id export QT_QPA_PLATFORM=wayland qpaeq
 exec --no-startup-id "foot --server"
 exec --no-startup-id swaync
+exec --no-startup-id GTK_IM_MODULE = "fcitx";
+exec --no-startup-id QT_IM_MODULE = "fcitx";
+exec --no-startup-id  XMODIFIERS = "@im=fcitx";
+exec --no-startup-id SDL_IM_MODULE = "fcitx";
+exec --no-startup-id GLFW_IM_MODULE = "fcitx";
+exec --no-startup-id INPUT_METHOD = "fcitx"; 
+exec --no-startup-id fcitx5
+
 set $mod Mod4
 # Home row direction keys, like vim
 set $left h
@@ -24,11 +33,11 @@ set $menu rofi -show run -lines 3 -eh 2 -opacity "80" -width 100 -padding 400 -b
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg /usr/share/backgrounds/xfce/xfce-leaves.svg fill
-output * max_render_time 4
-output * allow_tearing yes
-output * adaptive_sync enabled
-
+#output * bg /usr/share/backgrounds/xfce/xfce-leaves.svg fill
+#output * max_render_time 4
+#output * allow_tearing yes
+#output * adaptive_sync enabled
+#
 
 #output * mode --custom 1920x1200@60Hz
 #output * mode --custom 1600x1200@63Hz
